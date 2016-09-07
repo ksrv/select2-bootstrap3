@@ -1,0 +1,3 @@
+[submodule "select2-bootstrap-theme"]
+	path = select2-bootstrap-theme
+	url = https://github.com/select2/select2-bootstrap-theme
